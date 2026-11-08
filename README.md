@@ -1,2 +1,2 @@
 # MyPortifolio
-A portifolio explaining more my career and my projects.
+A portifolio explaining more about  my career and my projects.
