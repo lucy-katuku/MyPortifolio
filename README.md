@@ -1,2 +1,2 @@
 # MyPortifolio
-A portifolio explaining more about  my career and my projects.
+I am Lucie Neema, an IT student passionate about web development, programming, and creating innovative digital solutions. Explore my skills, projects, and journey in technology.
