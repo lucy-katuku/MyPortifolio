@@ -333,9 +333,11 @@ body.dark h2 {
     width: 280px;
     height: 280px;
     border-radius: 50%;
-    object-fit: cover;
+    object-fit: contain;
+    object-position: center;
     border: 5px solid #008b95;
     box-shadow: 0 0 20px rgba(0, 139, 149, 0.3);
+    background-color: #f4f6f8;
 }
 
 .home-content {
